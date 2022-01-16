@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "scripts": {
+    "start": "node script",
+    "dev": "nodemon script"
+  }
+}
